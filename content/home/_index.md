@@ -46,7 +46,7 @@ sections:
           <p>
             <strong>MediaX</strong> 隶属于 <a href="https://cmic.sjtu.edu.cn/CN/Default.aspx">上海交通大学未来媒体网络协同创新中心</a>，
             专注于 <span class="highlight">计算机视觉</span>、<span class="highlight">机器学习</span> 与 <span class="highlight">生成式智能媒体</span> 交叉领域的前沿研究。
-            我们致力于推动多模态媒体（2D/3D/4D）在生成、恢复与增强、重建与压缩、以及质量评价等方向的发展。
+            我们致力于推动多模态媒体（2D/3D/4D）在生成、修复与增强、重建与压缩、以及质量评价等方向的发展。
             我们的使命是构建能够理解、建模和操控复杂人类中心视觉内容的智能系统，
             以实现高质量、高效率的下一代智能媒体内容生产。
           </p>
@@ -57,7 +57,7 @@ sections:
             构建面向UGC、PGC和AIGC内容的多维度智能质量评价体系。（<a href="https://arxiv.org/abs/2412.13155">F-Bench</a>、<a href="https://arxiv.org/pdf/2412.19238">FineVQ</a>等）
           </p>
           <p>
-            <strong>视频恢复与生成</strong><br/>
+            <strong>视频修复与生成</strong><br/>
             高质量视频增强、可控生成与编辑，支持4K/8K分辨率。（<a href="https://arxiv.org/abs/2306.00973">StoryGen</a>、<a href="https://arxiv.org/abs/2303.06885">Dr2</a>等）
           </p>
           <p>
@@ -137,6 +137,7 @@ sections:
                     <h1>🔥 News: </h1>
                 </div>
                 <div class="news-list">
+                    <div class="news-item">[2025/9]   MediaX团队超高清AI修复技术助力抗战胜利80周年晚会</div>
                     <div class="news-item">[2025/8]   Second Place, ICCV 2025 MIPI Challenge – Detailed Image Quality Assessment</div>
                     <div class="news-item">[2025/7]   Second Place, ICCV 2025 VQualA Challenge – GenAI-Bench AIGC Video Quality Assessment</div>
                     <div class="news-item">[2025/7]   Two papers are accepted to ACM MM 2025</div>
