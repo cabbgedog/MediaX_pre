@@ -137,6 +137,9 @@ sections:
                     <h1>🔥 News: </h1>
                 </div>
                 <div class="news-list">
+                    <div class="news-item">[2025/10]   One paper is accepted to JSTSP 2025</div>
+                    <div class="news-item">[2025/9]   First Prize, Intelligent Restoration and Enhancement Track, 4th Broadcast and Online Audio-Visual Artificial Intelligence Application Innovation Competition</div>
+                    <div class="news-item">[2025/9]   Two papers are accepted to NeurIPS 2025</div>
                     <div class="news-item">[2025/9]   MediaX团队超高清AI修复技术助力抗战胜利80周年晚会</div>
                     <div class="news-item">[2025/8]   Second Place, ICCV 2025 MIPI Challenge – Detailed Image Quality Assessment</div>
                     <div class="news-item">[2025/7]   Second Place, ICCV 2025 VQualA Challenge – GenAI-Bench AIGC Video Quality Assessment</div>
@@ -224,6 +227,138 @@ sections:
             margin-top: 10px; 
           }
         </style>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/moavr.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [JSTSP'2025] MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Lu Liu, Chunlei Cai, Shaocheng Shen, Jianfeng Liang, Weimin Ouyang, Tianxiao Ye, Jian Mao, Huiyu Duan, Jiangchao Yao, Xiaoyun Zhang, Qiang Hu, Guangtao Zhai
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                JSTSP 2025.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2510.08508" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/4dgcpro.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [NeurIPS'2025] 4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Zihan Zheng, Zhenlong Wu, Houqiang Zhong, Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, Qiang Hu, Wenjun Zhang
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                NeurIPS 2025.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2509.17513" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/nips25.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [NeurIPS'2025] Long-tailed Recognition with Model Rebalancing
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Jiaan Luo, Feng Hong, Qiang Hu, Xiaofeng Cao, Feng Liu, Jiangchao Yao
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                NeurIPS 2025.
+              </p>
+              <div>
+                <a href="https://www.arxiv.org/abs/2510.08177" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/mm251.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [MM'2025] BEAM: Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Yu Hong, Yize Wu, Zhehao Shen, Chengcheng Guo, Yuheng Jiang, Yingliang Zhang, Qiang Hu, Jingyi Yu, Lan Xu
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                Proceedings of the ACM International Conference on Multimedia(MM), 2025.
+              </p>
+              <div>
+                <a href="https://qianghu-huber.github.io/qianghuhomepage/paper/mm25.pdf" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/mm252.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [MM'2025] MultiEgo: A Multi-View Egocentric Video Dataset For 4D Scene Reconstruction
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Bate Li, Houqiang Zhong, Zhengxue Cheng, Qiang Hu, Qiang Wang, Li Song, Wenjun Zhang
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                Proceedings of the ACM International Conference on Multimedia(MM), 2025.
+              </p>
+              <div>
+                <a href="https://openreview.net/pdf?id=wojrOwQ2Kx" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+
 
         <!-- 表格布局：左右两栏 -->
         <table class="paper-table">
