@@ -58,11 +58,11 @@ sections:
           </p>
           <p>
             <strong>视频修复与生成</strong><br/>
-            高质量视频增强、可控生成与编辑，支持4K/8K分辨率。（<a href="https://arxiv.org/abs/2306.00973">StoryGen</a>、<a href="https://arxiv.org/abs/2303.06885">Dr2</a>等）
+            高质量视频增强、可控生成与编辑，支持4K/8K分辨率。（<a href="https://arxiv.org/abs/2510.08508">MoA-VR</a>、<a href="https://arxiv.org/abs/2306.00973">StoryGen</a>、<a href="https://arxiv.org/abs/2303.06885">Dr2</a>等）
           </p>
           <p>
             <strong>3D/4D重建与生成</strong><br/>
-            基于3D高斯建模与生成式AI，实现沉浸式动态场景的高效表示与压缩。（<a href="https://arxiv.org/pdf/2412.19238">4DGC</a>、<a href="https://qianghu-huber.github.io/qianghuhomepage/paper/JSAC.pdf">VARFVV</a>等）
+            基于3D高斯建模与生成式AI，实现沉浸式动态场景的高效表示与压缩。（<a href="https://arxiv.org/abs/2509.17513">4DGCPro</a>、<a href="https://arxiv.org/pdf/2503.18421">4DGC</a>、<a href="https://qianghu-huber.github.io/qianghuhomepage/paper/JSAC.pdf">VARFVV</a>等）
           </p>
           <p>
             <strong>智能媒体创作平台</strong><br/>
@@ -436,7 +436,7 @@ sections:
                 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
               </p>
               <div>
-                <a href="https://arxiv.org/pdf/2412.19238" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://arxiv.org/pdf/2503.18421" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
                 <a href="https://github.com/qianghu-huber/4DGC" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
               </div>
             </td>
