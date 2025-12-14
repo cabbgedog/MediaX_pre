@@ -249,7 +249,7 @@ sections:
                 Yijie Gao, Houqiang Zhong, Tianchi Zhu, Zhengxue Cheng, Qiang Hu, Li Song
               </p>
               <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                IEEE VCIP 2025.
+                IEEE Visual Communications and Image Processing (VCIP) 2025.
               </p>
               <div>
                 <a href="https://arxiv.org/pdf/2510.07839" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
@@ -276,7 +276,7 @@ sections:
                 Yuan Tian, Xiaoyue Ling, Cong Geng, Qiang Hu, Guo Lu, Guangtao Zhai
               </p>
               <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                TPAMI 2025.
+                IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
               </p>
               <div>
                 <a href="https://ieeexplore.ieee.org/abstract/document/11216019" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
@@ -302,7 +302,7 @@ sections:
                 Lu Liu, Chunlei Cai, Shaocheng Shen, Jianfeng Liang, Weimin Ouyang, Tianxiao Ye, Jian Mao, Huiyu Duan, Jiangchao Yao, Xiaoyun Zhang, Qiang Hu, Guangtao Zhai
               </p>
               <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                JSTSP 2025.
+                IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2025.
               </p>
               <div>
                 <a href="https://arxiv.org/abs/2510.08508" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
@@ -328,7 +328,7 @@ sections:
                 Zihan Zheng, Zhenlong Wu, Houqiang Zhong, Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, Qiang Hu, Wenjun Zhang
               </p>
               <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                NeurIPS 2025.
+                The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
               </p>
               <div>
                 <a href="https://arxiv.org/abs/2509.17513" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
@@ -354,7 +354,7 @@ sections:
                 Jiaan Luo, Feng Hong, Qiang Hu, Xiaofeng Cao, Feng Liu, Jiangchao Yao
               </p>
               <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                NeurIPS 2025.
+                The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
               </p>
               <div>
                 <a href="https://www.arxiv.org/abs/2510.08177" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
