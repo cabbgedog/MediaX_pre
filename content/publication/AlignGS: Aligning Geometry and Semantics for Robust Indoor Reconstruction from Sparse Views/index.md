@@ -1,27 +1,31 @@
 ---
-title: 'AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views'
+title: '4D-MoDe: Towards Editable and Scalable Volumetric Streaming via Motion-Decoupled 4D Gaussian Compression'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 
 authors:
-  - Yijie Gao
   - Houqiang Zhong
-  - Tianchi Zhu
-  - Zhengxue Cheng
+  - Zihan Zheng
   - Qiang Hu
+  - Yuan Tian
+  - Ning Cao
+  - Lan Xu
+  - Xiaoyun Zhang
+  - Zhengxue Cheng
   - Li Song
+  - Wenjun Zhang
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: "2025-10-09T00:00:00Z"
+date: "2025-09-22T00:00:00Z"
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-09T00:00:00Z"
+publishDate: "2025-09-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +34,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the ACM International Conference on Multimedia(MM), 2025*
-publication_short: In *VCIP, 2025*
+publication_short: In *arXiv, 2025*
 
 
 # Summary. An optional shortened abstract.
@@ -52,7 +56,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/pdf/2510.07839'
+url_source: 'https://arxiv.org/pdf/2509.17506'
 url_video: ''
 
 # Featured image
