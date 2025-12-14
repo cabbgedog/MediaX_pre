@@ -1,6 +1,6 @@
 ---
-title: NeurlPS 2025 | 4DGCPro：面向渐进式体积视频流的高效分层4D高斯压缩技术
-date: 2025-09-25
+title: 2025 JSTSP | MoA-VR：多智能体协同的视频修复系统
+date: 2025-10-25
 type: landing
 
 sections:
