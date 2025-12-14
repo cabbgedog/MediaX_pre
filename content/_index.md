@@ -264,22 +264,22 @@ sections:
             <!-- 左侧：图片单元格（固定宽度400px） -->
             <td>
               <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
-                <img src="images/moavr.png" alt="f-bench" class="paper-image">
+                <img src="images/pami5.png" alt="f-bench" class="paper-image">
               </div>
             </td>
             <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
             <td>
               <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
-                [JSTSP'2025] MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration
+                [TPAMI'2025] SMC++: Masked Learning of Unsupervised Video Semantic Compression.
               </h1>
               <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
-                Lu Liu, Chunlei Cai, Shaocheng Shen, Jianfeng Liang, Weimin Ouyang, Tianxiao Ye, Jian Mao, Huiyu Duan, Jiangchao Yao, Xiaoyun Zhang, Qiang Hu, Guangtao Zhai
+                Yuan Tian, Xiaoyue Ling, Cong Geng, Qiang Hu, Guo Lu, Guangtao Zhai
               </p>
               <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                JSTSP 2025.
+                TPAMI 2025.
               </p>
               <div>
-                <a href="https://arxiv.org/abs/2510.08508" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://ieeexplore.ieee.org/abstract/document/11216019" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
               </div>
             </td>
           </tr>
