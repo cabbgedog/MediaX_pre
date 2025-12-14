@@ -264,7 +264,7 @@ sections:
             <!-- 左侧：图片单元格（固定宽度400px） -->
             <td>
               <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
-                <img src="images/pami5.png" alt="f-bench" class="paper-image">
+                <img src="images/pami25.png" alt="f-bench" class="paper-image">
               </div>
             </td>
             <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
