@@ -137,7 +137,11 @@ sections:
                     <h1>🔥 News: </h1>
                 </div>
                 <div class="news-list">
-                    <div class="news-item">[2025/10]   One paper is accepted to JSTSP 2025</div>
+                    <div class="news-item">[2025/12]   IEEE VCIP Best Paper Award</div>
+                    <div class="news-item">[2025/12]   Runner-up, SIGGRAPH Asia 2025 Volumetric Video Challenge (Compression Track)</div>
+                    <div class="news-item">[2025/11]   One paper is accepted to TCSVT</div>
+                    <div class="news-item">[2025/10]   One paper is accepted to TPAMI</div>
+                    <div class="news-item">[2025/10]   One paper is accepted to JSTSP</div>
                     <div class="news-item">[2025/9]   First Prize, Intelligent Restoration and Enhancement Track, 4th Broadcast and Online Audio-Visual Artificial Intelligence Application Innovation Competition</div>
                     <div class="news-item">[2025/9]   Two papers are accepted to NeurIPS 2025</div>
                     <div class="news-item">[2025/9]   MediaX团队超高清AI修复技术助力抗战胜利80周年晚会</div>
@@ -227,6 +231,59 @@ sections:
             margin-top: 10px; 
           }
         </style>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/vcip2025.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [VCIP'2025] AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views (Best Paper Award).
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Yijie Gao, Houqiang Zhong, Tianchi Zhu, Zhengxue Cheng, Qiang Hu, Li Song
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                IEEE VCIP 2025.
+              </p>
+              <div>
+                <a href="https://arxiv.org/pdf/2510.07839" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://github.com/MediaX-SJTU/AlignGS" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/pami5.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [TPAMI'2025] SMC++: Masked Learning of Unsupervised Video Semantic Compression.
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Yuan Tian, Xiaoyue Ling, Cong Geng, Qiang Hu, Guo Lu, Guangtao Zhai
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                TPAMI 2025.
+              </p>
+              <div>
+                <a href="https://ieeexplore.ieee.org/abstract/document/11216019" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
 
         <table class="paper-table">
           <tr>
