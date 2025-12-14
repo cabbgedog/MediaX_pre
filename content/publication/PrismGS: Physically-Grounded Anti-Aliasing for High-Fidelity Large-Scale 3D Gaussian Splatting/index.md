@@ -1,5 +1,5 @@
 ---
-title: '4D-MoDe: Towards Editable and Scalable Volumetric Streaming via Motion-Decoupled 4D Gaussian Compression'
+title: 'PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,15 +7,13 @@ title: '4D-MoDe: Towards Editable and Scalable Volumetric Streaming via Motion-D
 
 authors:
   - Houqiang Zhong
+  - Zhenglong Wu
+  - Sihua Fu
   - Zihan Zheng
-  - Qiang Hu
-  - Yuan Tian
-  - Ning Cao
-  - Lan Xu
+  - Xin Jin
   - Xiaoyun Zhang
-  - Zhengxue Cheng
   - Li Song
-  - Wenjun Zhang
+  - Qiang Hu
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
@@ -34,7 +32,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the ACM International Conference on Multimedia(MM), 2025*
-publication_short: In *arXiv, 2025*
+publication_short: In *VCIP, 2025*
 
 
 # Summary. An optional shortened abstract.
