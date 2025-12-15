@@ -264,32 +264,6 @@ sections:
             <!-- 左侧：图片单元格（固定宽度400px） -->
             <td>
               <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
-                <img src="images/pami25.png" alt="f-bench" class="paper-image">
-              </div>
-            </td>
-            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
-            <td>
-              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
-                [TPAMI'2025] SMC++: Masked Learning of Unsupervised Video Semantic Compression.
-              </h1>
-              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
-                Yuan Tian, Xiaoyue Ling, Cong Geng, Qiang Hu, Guo Lu, Guangtao Zhai
-              </p>
-              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
-              </p>
-              <div>
-                <a href="https://ieeexplore.ieee.org/abstract/document/11216019" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-
-        <table class="paper-table">
-          <tr>
-            <!-- 左侧：图片单元格（固定宽度400px） -->
-            <td>
-              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
                 <img src="images/moavr.png" alt="f-bench" class="paper-image">
               </div>
             </td>
@@ -336,86 +310,6 @@ sections:
             </td>
           </tr>
         </table>
-
-        <table class="paper-table">
-          <tr>
-            <!-- 左侧：图片单元格（固定宽度400px） -->
-            <td>
-              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
-                <img src="images/nips25.png" alt="f-bench" class="paper-image">
-              </div>
-            </td>
-            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
-            <td>
-              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
-                [NeurIPS'2025] Long-tailed Recognition with Model Rebalancing
-              </h1>
-              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
-                Jiaan Luo, Feng Hong, Qiang Hu, Xiaofeng Cao, Feng Liu, Jiangchao Yao
-              </p>
-              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
-              </p>
-              <div>
-                <a href="https://www.arxiv.org/abs/2510.08177" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-
-        <table class="paper-table">
-          <tr>
-            <!-- 左侧：图片单元格（固定宽度400px） -->
-            <td>
-              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
-                <img src="images/mm251.png" alt="f-bench" class="paper-image">
-              </div>
-            </td>
-            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
-            <td>
-              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
-                [MM'2025] BEAM: Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video
-              </h1>
-              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
-                Yu Hong, Yize Wu, Zhehao Shen, Chengcheng Guo, Yuheng Jiang, Yingliang Zhang, Qiang Hu, Jingyi Yu, Lan Xu
-              </p>
-              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                Proceedings of the ACM International Conference on Multimedia(MM), 2025.
-              </p>
-              <div>
-                <a href="https://qianghu-huber.github.io/qianghuhomepage/paper/mm25.pdf" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-
-        <table class="paper-table">
-          <tr>
-            <!-- 左侧：图片单元格（固定宽度400px） -->
-            <td>
-              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
-                <img src="images/mm252.png" alt="f-bench" class="paper-image">
-              </div>
-            </td>
-            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
-            <td>
-              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
-                [MM'2025] MultiEgo: A Multi-View Egocentric Video Dataset For 4D Scene Reconstruction
-              </h1>
-              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
-                Bate Li, Houqiang Zhong, Zhengxue Cheng, Qiang Hu, Qiang Wang, Li Song, Wenjun Zhang
-              </p>
-              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
-                Proceedings of the ACM International Conference on Multimedia(MM), 2025.
-              </p>
-              <div>
-                <a href="https://openreview.net/pdf?id=wojrOwQ2Kx" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-
-
 
         <!-- 表格布局：左右两栏 -->
         <table class="paper-table">
