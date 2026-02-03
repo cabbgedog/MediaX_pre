@@ -10,7 +10,7 @@ last_name: Hu
 superuser: true
 
 # Role/position
-role: Assistant Researcher
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
