@@ -21,9 +21,10 @@ organizations:
 bio: 
 
 interests:
-  - 生成式智能媒体
-  - 2D/3D视频智能编码与增强
-  - 神经渲染
+  - 生成式智能媒体与 Agentic AI
+  - 三维重建与生成
+  - 2D/3D 视频编码与增强
+  - 视觉内容质量评价
 
 education:
   courses:
