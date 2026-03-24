@@ -137,6 +137,9 @@ sections:
                     <h1>🔥 News: </h1>
                 </div>
                 <div class="news-list">
+                    <div class="news-item">[2025/2]   Two papers are accepted to CVPR</div>
+                    <div class="news-item">[2026/1]   One paper is accepted to ICLR</div>
+                    <div class="news-item">[2025/12]   Cover Paper in IEEE JSTSP</div>
                     <div class="news-item">[2025/12]   IEEE VCIP Best Paper Award</div>
                     <div class="news-item">[2025/12]   Runner-up, SIGGRAPH Asia 2025 Volumetric Video Challenge (Compression Track)</div>
                     <div class="news-item">[2025/11]   One paper is accepted to TCSVT</div>
@@ -231,6 +234,88 @@ sections:
             margin-top: 10px; 
           }
         </style>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/cvpr2026-2.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [CVPR'2026] Agentic Retoucher for Text-To-Image Generation
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Shaocheng Shen, Jianfeng Liang, Chunlei Cai, Cong Geng, Huiyu Duan, Xiaoyun Zhang, Qiang Hu, Guangtao Zhai
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2601.02046" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://github.com/MediaX-SJTU/Agentic-Retoucher" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/cvpr2026.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [CVPR'2026] One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Yushun Fang, Yuxiang Chen, Shibo Yin, Qiang Hu, Jiangchao Yao, Ya Zhang, Xiaoyun Zhang, Yanfeng Wang
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2511.17138" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://github.com/MediaX-SJTU/ODTSR" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/iclr2026.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [ICLR'2026] LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Zhenghao Zhang, Ziying Zhang, Junchao Liao, Xiangyu Meng, Qiang Hu, Siyu Zhu, Xiaoyun Zhang, Long Qin, Weizhi Wang
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                International Conference on Learning Representations (ICLR), 2026.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2509.25731" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://github.com/MediaX-SJTU/landmark-tokenized-dit" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
 
         <table class="paper-table">
           <tr>
