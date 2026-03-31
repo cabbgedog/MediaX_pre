@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'qiang.hu@sjtu.edu.cn'
+    link: 'mailto:qiang.hu@sjtu.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=kYHf73IAAAAJ&hl=zh-CN
