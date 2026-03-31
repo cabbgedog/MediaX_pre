@@ -18,7 +18,7 @@ weight: 1
 # Organizations/Affiliations
 organizations:
   - name: Shanghai JiaoTong University
-    url: 'xiaoyun.zhang@sjtu.edu.cn'
+    url: 'https://www.sjtu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .
