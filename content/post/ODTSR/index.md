@@ -14,19 +14,25 @@ sections:
 
         针对现有方法存在保真度与生成质量难以兼顾、多步推理成本高昂等问题，上海交通大学与小红书的研究团队联合提出了一种新的基于扩散 Transformer 的框架——ODTSR（One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution）。该工作首次将高达20B参数的生成模型（Qwen-Image）的强悍先验能力引入单步真实世界超分任务中，不仅实现了单步秒级生成，还能够通过提示词（Prompt）和保真度权重精准控制超分效果。
 
-        
-        ![](640.png)
+        <figure style="text-align: center; margin: 1.5em 0;">
+          <img src="640.png" alt="ODTSR结果展示图" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+            ODTSR结果展示图
+          </figcaption>
+        </figure>
 
         论文链接：https://arxiv.org/abs/2511.17138
 
         代码开源地址：https://github.com/MediaX-SJTU/ODTSR
 
-
         ## 关键技术
 
-        ![](640_1.png)
-
-        **图1：ODTSR框架图解**
+        <figure style="text-align: center; margin: 1.5em 0;">
+          <img src="640_1.png" alt="图1：ODTSR框架图解" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+            图1：ODTSR框架图解
+          </figcaption>
+        </figure>
 
         ODTSR 的核心目标是在实现极致单步推理速度的同时，保证高质量的生成效果与高度的灵活性。论文的关键技术主要有两点：
 
@@ -38,26 +44,37 @@ sections:
 
         针对将多步扩散过程压缩至单步时常见的画质衰减问题，研究团队引入了 FAA 技术。该训练策略不仅实现了真正的单步推理，还极大增强了生成过程的可控性。用户仅需调整一个保真度权重标量，即可在“高度忠实原图”与“极致细节生成”之间进行连续无缝调节。
 
-      
         ## 实验结果
 
         作者在多个主流 Real-ISR 基准数据集上（RealSR、DRealSR、DIV2K、RealCE）进行了全面实验，对比了当前最先进的单步和多步超分方法。
 
-        ![](640_2.png)
+        <figure style="text-align: center; margin: 1.5em 0;">
+          <img src="640_2.png" alt="图2：ODTSR与其他SOTA方法在标准图像超分任务上的量化对比" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+            图2：ODTSR与其他SOTA方法在标准图像超分任务上的量化对比
+          </figcaption>
+        </figure>
 
-        **图2：ODTSR与其他 SOTA 方法在标准图像超分任务上的量化对比**
+        <figure style="text-align: center; margin: 1.5em 0;">
+          <img src="640_3.png" alt="图3：ODTSR与其他SOTA方法在标准图像超分任务上的量化对比" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+            图3：ODTSR与其他SOTA方法在标准图像超分任务上的量化对比
+          </figcaption>
+        </figure>
 
-        ![](640_3.png)
+        <figure style="text-align: center; margin: 1.5em 0;">
+          <img src="640_4.png" alt="图4：ODTSR与其他SOTA方法的视觉效果与细节对比" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+            图4：ODTSR与其他SOTA方法的视觉效果与细节对比
+          </figcaption>
+        </figure>
 
-        **图3：ODTSR与其他 SOTA 方法在标准图像超分任务上的量化对比**
-
-        ![](640_4.png)
-
-        **图4：ODTSR 与其他 SOTA 方法的视觉效果与细节对比**
-
-        ![](640_5.png)
-
-        **图5：ODTSR 的 Prompt 可控性展示**
+        <figure style="text-align: center; margin: 1.5em 0;">
+          <img src="640_5.png" alt="图5：ODTSR的Prompt可控性展示" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+            图5：ODTSR的Prompt可控性展示
+          </figcaption>
+        </figure>
 
         - **视觉效果**：ODTSR 在处理复杂真实世界退化图像时，能够生成更为细腻、逼真的纹理，且结构保真度显著高于传统的多步扩散模型。
 
@@ -68,6 +85,4 @@ sections:
         - **零样本可控性**：在未针对特定场景文字数据集进行微调的情况下，ODTSR 在极具挑战性的真实场景中文文字超分任务中展现了惊艳的实力，通过简单的文本提示词，即可将模糊、残缺的中文文字精准还原。
 
         由此可见，ODTSR 同时实现了超高感知质量、极低的推理延迟以及强大的文本与保真度可控性，为真实世界图像超分任务树立了新的范式，也为百亿级参数视觉大模型在底层视觉（Low-level Vision）任务中的高效落地提供了重要参考。
-
-
 ---
