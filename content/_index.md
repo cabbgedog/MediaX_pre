@@ -58,7 +58,7 @@ sections:
           </p>
           <p>
             <strong>视频修复与生成</strong><br/>
-            高质量视频增强、可控生成与编辑，支持4K/8K分辨率。（<a href="https://arxiv.org/abs/2510.08508">MoA-VR</a>、<a href="https://arxiv.org/abs/2306.00973">StoryGen</a>、<a href="https://arxiv.org/abs/2303.06885">Dr2</a>等）
+            高质量视频增强、可控生成与编辑，支持4K/8K分辨率。（<a href="https://arxiv.org/abs/2511.17138">ODTSR</a>、<a href="https://arxiv.org/abs/2509.25731">LaTo</a>、<a href="https://arxiv.org/abs/2306.00973">StoryGen</a>、<a href="https://arxiv.org/abs/2303.06885">Dr2</a>等）
           </p>
           <p>
             <strong>3D/4D重建与生成</strong><br/>
@@ -66,7 +66,7 @@ sections:
           </p>
           <p>
             <strong>智能媒体创作平台</strong><br/>
-            构建协同、多智能体驱动的自动化与交互式媒体生产系统。(央视4K/8K超高清媒体智能增强制作平台)
+            构建协同、多智能体驱动的自动化与交互式媒体生产系统。(央视4K/8K超高清媒体智能增强制作平台、<a href="https://arxiv.org/abs/2510.08508">MoA-VR</a>、<a href="https://arxiv.org/abs/2601.02046">Agentic Retoucher</a>)
           </p>
 
           <h2>📢 加入我们</h2>
