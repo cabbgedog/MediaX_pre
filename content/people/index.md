@@ -16,7 +16,8 @@ sections:
           - Master Students
           - Undergraduate Students
           - Research Collaborators
-          - Former Supervised Students
+          - Former Supervised Students (Master Students)
+          - Former Supervised Students (Undergraduate Students)
           - Visitors
           - Alumni
       sort_by: Weight
