@@ -137,7 +137,7 @@ sections:
                     <h1>🔥 News: </h1>
                 </div>
                 <div class="news-list">
-                    <div class="news-item">[2025/2]   Two papers are accepted to CVPR</div>
+                    <div class="news-item">[2026/2]   Two papers are accepted to CVPR</div>
                     <div class="news-item">[2026/1]   One paper is accepted to ICLR</div>
                     <div class="news-item">[2025/12]   Cover Paper in IEEE JSTSP</div>
                     <div class="news-item">[2025/12]   IEEE VCIP Best Paper Award</div>
