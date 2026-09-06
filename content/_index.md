@@ -137,6 +137,8 @@ sections:
                     <h1>🔥 News: </h1>
                 </div>
                 <div class="news-list">
+                    <div class="news-item">[2026/7]   Champion, IEEE ICME 2026 Dynamic 3D Gaussian Splatting Compression Challenge
+                    <div class="news-item">[2026/6]   Two papers are accepted to ECCV
                     <div class="news-item">[2026/2]   Two papers are accepted to CVPR</div>
                     <div class="news-item">[2026/1]   One paper is accepted to ICLR</div>
                     <div class="news-item">[2025/12]   Cover Paper in IEEE JSTSP</div>
@@ -234,6 +236,60 @@ sections:
             margin-top: 10px; 
           }
         </style>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/teasr.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [ECCV'2026] TEASR: Training-Efficient Any-Step Diffusion Transformer for Real-World Image Super-Resolution
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Xiang Gao, Chenxin Zhu, Yushun Fang, Qiang Hu, Xiaoyun Zhang
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                The European Conference on Computer Vision (ECCV), 2026.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2606.16188" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://github.com/MediaX-SJTU/TEASR" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <table class="paper-table">
+          <tr>
+            <!-- 左侧：图片单元格（固定宽度400px） -->
+            <td>
+              <div class="image-container"> <!-- 灰色边框+白色底色的方框 -->
+                <img src="images/DIT.png" alt="f-bench" class="paper-image">
+              </div>
+            </td>
+            <!-- 右侧：论文信息单元格（自适应剩余宽度） -->
+            <td>
+              <h1 style="font-size: 27px; font-weight: bold; color: #2c3e50; margin-bottom: 15px; line-height: 1.3;">
+                [ECCV'2026] DTI: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution
+              </h1>
+              <p style="font-size: 20px; color: #3498db; margin-bottom: 10px;">
+                Yingwei Tang, Chen Yan, Wendi Liu, Qiang Hu, Xiaoyun Zhang
+              </p>
+              <p style="font-size: 20px; color: #7f8c8d; margin-bottom: 20px;">
+                The European Conference on Computer Vision (ECCV), 2026.
+              </p>
+              <div>
+                <a href="https://arxiv.org/abs/2606.29198" target="_blank" rel="noopener noreferrer" class="paper-link">[Paper]</a>
+                <a href="https://github.com/MediaX-SJTU/DTI" target="_blank" rel="noopener noreferrer" class="paper-link">[Code]</a>
+              </div>
+            </td>
+          </tr>
+        </table>
 
         <table class="paper-table">
           <tr>
